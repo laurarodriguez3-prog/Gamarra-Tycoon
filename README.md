@@ -60,3 +60,4 @@ Llevamos la energía, la chispa y la competencia del emporio textil más gran
 4. **Evaluación Automática:** Monitoreo de Métricas (Producción, Margen de Ganancia, Entregas a Tiempo).
 5. **Cierre y Premiación:** Final de Temporada → Ejecución de Contrato Inteligente → Liquidación Inmediata del Pozo a la Billetera del Ganador.
 
+<img width="825" height="387" alt="image" src="https://github.com/user-attachments/assets/d21d1d97-388a-43a5-b23c-f270d482065e" />
